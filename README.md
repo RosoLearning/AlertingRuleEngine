@@ -250,3 +250,9 @@ What team structure and ownership model would you propose for building and runni
 Two divisions bring conflicting requirements for the same feature. How do you handle it as the architect?
 
 ---
+---
+
+[Part 2: Executive Summary and Proposed Solution](AlertingRuleEngine.md)
+---
+---
+[Architecture](BasicArchitecture-AlertingRuleEngine.md)

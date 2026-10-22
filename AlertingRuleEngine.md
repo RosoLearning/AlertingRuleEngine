@@ -730,3 +730,7 @@ The most important design priorities are:
 7. Incremental delivery driven by load testing and risk retirement.
 
 The first production release should demonstrate one complete, observable and recoverable rule-to-action flow. The platform can then expand toward complex temporal rules, multiple divisions, richer action types and high-volume production workloads without requiring a fundamental redesign.
+
+---
+---
+[Architecture](BasicArchitecture-AlertingRuleEngine.md)

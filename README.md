@@ -24,12 +24,6 @@ Your goal is to architect a solution that addresses the following questions. We 
 
 Provide architectural designs, clear reasoning and answers for all questions.
 
-### The Starter Template
-
-We provide a small, self-contained Rule Playground (`rule-playground.html`). It simulates a device streaming IPSO/SenML telemetry and applies one naive threshold rule to it. It is deliberately minimal and serves as the entrypoint for your solution.
-
-You are encouraged to extend it, for example with the help of an LLM, to demonstrate the concepts of your proposed solution.
-
 **Bonus points** will be awarded for clear architectural diagrams, a good explanation of your solution, and a working demonstration built on the starter template.
 
 ---

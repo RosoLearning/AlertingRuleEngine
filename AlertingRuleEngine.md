@@ -678,8 +678,6 @@ Deploy the metadata adapter and replicated read model, then onboard additional d
 
 ### Starter playground and LLM
 
-Use `rule-playground.html` to prototype SenML parsing, a typed rule editor, temporal aggregation, rule lifecycle, suppression and simulated action failures.
-
 Use an LLM to accelerate test generation, UI scaffolding and documentation. Validate all generated logic through deterministic tests. Do not use an LLM as the production evaluator for deterministic threshold or temporal rules.
 
 ### Team ownership
